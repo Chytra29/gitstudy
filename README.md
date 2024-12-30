@@ -1,3 +1,6 @@
 # gitstudy
 reset
 diff
+
+
+fetch
